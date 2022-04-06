@@ -6,5 +6,7 @@ public class Sum {
        sum = num1 * num2;
  
        System.out.println(sum);
+       System.out.println(sum);
+
     }
  }
